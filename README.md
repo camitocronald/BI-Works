@@ -4,7 +4,7 @@ A Power BI dashboard built on PSA (Philippine Statistics Authority) 2020 Census-
 
 ![Overview dashboard](assets/04-overview-dashboard.png)
 
-[View the full report (PDF, 4 pages)](population-dashboard.pdf)
+[View the full report (PDF, 4 pages)](population-dashboard.pdf) **_Building in-progress_**
 
 ---
 
