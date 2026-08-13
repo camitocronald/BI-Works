@@ -66,7 +66,7 @@ The Overview page above sets the macro narrative — from there, three dedicated
 - NCR ranks **last of 17 regions** in population growth (0.51% CAGR); CALABARZON — the largest region outside NCR — is absorbing the overflow (1.13% CAGR).
 - Fertility is below replacement level — **children are the only shrinking age cohort** nationally; every cohort 15+ is growing, seniors fastest of all.
 - The national dependency ratio falls from **56.4% to 45.4%** between 2020 and 2030 — a widening share of working-age Filipinos relative to dependents.
-- 323 of 1,607 cities and municipalities are projected to **lose** population by 2030 — growth is not universal, even within fast-growing provinces.
+- 331 of 1,725 cities and municipalities are projected to **lose** population by 2030 — growth is not universal, even within fast-growing provinces.
 
 ## Tech stack
 
